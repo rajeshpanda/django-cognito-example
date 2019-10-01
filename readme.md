@@ -1,8 +1,8 @@
-Install djangorestframework
+## Install djangorestframework
 pip install djangorestframework markdown django-cognito-jwt
 
-To make migrations
+## To make migrations
 python manage.py makemigrations
 
-To migrate 
+## To migrate 
 python manage.py migrate techies
